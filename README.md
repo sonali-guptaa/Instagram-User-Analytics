@@ -20,4 +20,4 @@ A detailed analysis of Instagram user interactions and engagement using SQL, aim
 ## How to Use:
 1. Clone the repository.
 2. Run the queries on your dataset or use the sample data provided.
-3. The full analysis and insights can be found in the docs/Instagram_User_Analytics_Report.pdf.
+3. The full analysis and insights can be found in the 'Instagram_User_Analytics_Report.pdf'
